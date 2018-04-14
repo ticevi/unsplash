@@ -37,3 +37,8 @@
 	background-color: rgba(0, 0, 0, .5) !important;
 	border: none !important
 }
+
+footer::after{
+	color: white;
+	content: "www.test.com/bildermitlangernummer";
+}
